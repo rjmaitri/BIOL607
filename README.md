@@ -1,2 +1,2 @@
 # BIOL607
-Data Scince
+Data Science
